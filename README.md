@@ -3,7 +3,7 @@ This is the open source repository of my first paper "Object-Aware  SLAM  Based 
 
 Here is the primary performance of our Efficient  Quadric  Initialization (EQI) algorithm:
 
-![perfomance](D:\MyGitHub\SLAM\Object-Aware-SLAM\images\performance.png)
+![perfomance](https://github.com/caobugai12138/Object-Aware-SLAM/blob/main/images/performance.png?raw=true)
 
 Here is the youtube link of the  full run performance on one TUM sequence: [Object-Aware-SLAM](https://youtu.be/Ng6E-lpqJ6E).
 
