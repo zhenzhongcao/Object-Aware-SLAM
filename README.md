@@ -1,5 +1,5 @@
 # Object-Aware-SLAM
-This is the open source repository of my first paper "Object-Aware  SLAM  Based  on  Efficient  Quadric  Initialization  and Joint  Data  Association", which is ready to commit to RAL &amp; IROS 2022.
+This is the open source repository of my first paper **Object-Aware  SLAM  Based  on  Efficient  Quadric  Initialization  and Joint  Data  Association**, which is ready to commit to RAL &amp; IROS 2022.	
 
 Here is the primary performance of our Efficient  Quadric  Initialization (EQI) algorithm:
 
