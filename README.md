@@ -4,7 +4,7 @@
 
 Our paper has been accepted by RA-L. Thanks for all contributors.
 
-![](D:\MyGitHub\SLAM\Object-Aware-SLAM\images\publication.png)
+![](https://github.com/caobugai12138/Object-Aware-SLAM/blob/main/images/publication.png)
 
 ## 1. Introduction
 
