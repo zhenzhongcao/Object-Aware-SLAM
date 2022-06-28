@@ -10,11 +10,17 @@ Our paper has been accepted by RA-L. Thanks for all contributors.
 
 This is the open source repository of my first paper **Object-Aware  SLAM  Based  on  Efficient  Quadric  Initialization  and Joint  Data  Association**, which has been committed to RA-L &amp; IROS 2022 and has been accepted by RA-L.
 
+![](D:\MyGitHub\SLAM\Object-Aware-SLAM\images\system.png)
+
 ## 2. Performance
 
-* Here is the primary performance of our Efficient  Quadric  Initialization (EQI) algorithm:
+- Here is the primary performance of our Efficient  Quadric  Initialization (EQI) algorithm:
 
 ![perfomance](https://github.com/caobugai12138/Object-Aware-SLAM/blob/main/images/performance.png?raw=true)
+
+- Here is the primary performance of our Efficient  Quadric  Initialization (EQI) algorithm:
+
+![](D:\MyGitHub\SLAM\Object-Aware-SLAM\images\DataAssociation.png)
 
 - Here is the youtube link of the  full run performance on one TUM sequence: [Object-Aware-SLAM](https://youtu.be/Ng6E-lpqJ6E).
 
