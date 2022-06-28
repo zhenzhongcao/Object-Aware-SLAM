@@ -18,7 +18,7 @@ This is the open source repository of my first paper **Object-Aware  SLAM  Based
 
 ![perfomance](https://github.com/caobugai12138/Object-Aware-SLAM/blob/main/images/performance.png?raw=true)
 
-- Here is the primary performance of our Efficient  Quadric  Initialization (EQI) algorithm:
+- Here is the primary performance of our Joint  Data  Association (JDA) algorithm:
 
 ![](https://github.com/caobugai12138/Object-Aware-SLAM/blob/main/images/DataAssociation.png?raw=true)
 
