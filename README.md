@@ -46,6 +46,6 @@ We will open source the **basic version of our code** as soon as possible.
 
 If you have any suggestion or cooperation intention, you can contact us directly：
 
-- Gmail      :  caobugai12138@gmail.com
-- QQ Email:  3322121807@qq.com
+- Gmail：caobugai12138@gmail.com
+- Email： 3322121807@qq.com
 
