@@ -2,13 +2,15 @@
 
 ## 0. Publication
 
-Our paper has been accepted by RA-L. Thanks for all contributors.
+Our paper has been accepted by RA-L & IROS. Thanks for all contributors.
 
-![](https://github.com/caobugai12138/Object-Aware-SLAM/blob/main/images/publication.png?raw=true)
+<img src="D:\PersonalNote\Object-Aware-SLAM\images\032db8790dd784c0458d3b7d0e2339d.jpg" style="zoom:25%;" />
+
+<img src="D:\PersonalNote\Object-Aware-SLAM\images\73173781461f48c73654f9becdf3f13.jpg" style="zoom:25%;" />
 
 ## 1. Introduction
 
-This is the open source repository of my first paper **Object-Aware  SLAM  Based  on  Efficient  Quadric  Initialization  and Joint  Data  Association**, which has been committed to RA-L &amp; IROS 2022 and has been accepted by RA-L.
+This is the open source repository of my first paper **Object-Aware  SLAM  Based  on  Efficient  Quadric  Initialization  and Joint  Data  Association**, which has been accepted by RA-L &amp; IROS 2022.
 
 ![](https://github.com/caobugai12138/Object-Aware-SLAM/blob/main/images/system.png?raw=true)
 
@@ -22,20 +24,28 @@ This is the open source repository of my first paper **Object-Aware  SLAM  Based
 
 ![](https://github.com/caobugai12138/Object-Aware-SLAM/blob/main/images/DataAssociation.png?raw=true)
 
-- Here is the youtube link of the  full run performance on one TUM sequence: [Object-Aware-SLAM](https://youtu.be/Ng6E-lpqJ6E).
+- Here is the youtube link of the overview and  performance of our system:
+
+  [Overview of Our System](https://www.youtube.com/watch?v=XDuv2BG_K9Y)
+
+  [Performance of Our System](https://youtu.be/Ng6E-lpqJ6E)
 
 ## 3. Future
 
-Once our paper is accepted, we will open source the basic version of our code.
+We will open source the **basic version of our code** as soon as possible.
 
 ## 4. Todo
 
-- [x] Receive publication notice
+- [x] Receive RA-L publication notice
+- [x] Receive IROS publication notice
 - [ ] Ready to official publication
 - [ ] Show more technical details
-- [ ] Ready to open source
+- [ ] Ready to open source basic version
 
+## 5.Contact
 
+If you have any suggestion or cooperation intention, you can contact us directly：
 
-
+- Gmail: caobugai12138@gmail.com
+- QQ Email: 3322121807@qq.com
 
