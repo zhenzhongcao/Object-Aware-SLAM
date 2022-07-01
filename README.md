@@ -42,10 +42,10 @@ We will open source the **basic version of our code** as soon as possible.
 - [ ] Show more technical details
 - [ ] Ready to open source basic version
 
-## 5.Contact
+## 5. Contact
 
 If you have any suggestion or cooperation intention, you can contact us directly：
 
-- Gmail: caobugai12138@gmail.com
-- QQ Email: 3322121807@qq.com
+- Gmail      :  caobugai12138@gmail.com
+- QQ Email:  3322121807@qq.com
 
